@@ -1,4 +1,5 @@
 #! /usr/bin/python3
+
 """example of Selenium module usage for images downloading from flickr"""
 
 import logging
